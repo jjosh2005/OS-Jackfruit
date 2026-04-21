@@ -214,25 +214,25 @@ Two cpu_hog containers launched simultaneously:
 ## Screenshots
 
 ### 1. Multi-container supervision
-![multi-container](screenshots/01-multi-container.png)
+![multi-container](screenshotsOS/01-multi-container.png)
 
 ### 2. Metadata tracking
-![ps-metadata](screenshots/02-ps-metadata.png)
+![ps-metadata](screenshotsOS/02-ps-metadata.png)
 
 ### 3. Bounded-buffer logging
-![logging](screenshots/03-logging.png)
+![logging](screenshotsOS/03-logging.png)
 
 ### 4. CLI and IPC
-![cli-ipc](screenshots/04-cli-ipc.png)
+![cli-ipc](screenshotsOS/04-cli-ipc.png)
 
 ### 5. Soft-limit warning
-![soft-limit](screenshots/05-soft-limit.png)
+![soft-limit](screenshotsOS/05-soft-limit.png)
 
 ### 6. Hard-limit enforcement
-![hard-limit](screenshots/06-hard-limit.png)
+![hard-limit](screenshotsOS/06-hard-limit.png)
 
 ### 7. Scheduling experiment
-![scheduling](screenshots/07-scheduling.png)
+![scheduling](screenshotsOS/07-scheduling.png)
 
 ### 8. Clean teardown
-![teardown](screenshots/08-teardown.png)
+![teardown](screenshotsOS/08-teardown.png)
